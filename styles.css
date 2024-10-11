@@ -9,7 +9,10 @@
 #swap{
   outline:0;
 }
-
+.button_day{
+	 background-color:white;
+  color:black; 
+}
 .button_night{
   background-color:blue;
   color:white; 
